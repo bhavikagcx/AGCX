@@ -1,3 +1,5 @@
+<p align="center"><img src="AGCX_200x200.png" width="120" alt="AGCX"></p>
+
 # AGCX Public API
 
 **Arab Global Crypto Exchange (AGCX) – Market Data API for Spot Markets & Perpetual Futures**
